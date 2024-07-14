@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+    <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
         <title>Supercar Rental Dubai: Experience Luxury on Wheels | Book Now</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
