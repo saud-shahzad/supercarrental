@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Supercar Rental Dubai: Experience Luxury on Wheels | Book Now</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
