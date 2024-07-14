@@ -6,11 +6,11 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Supercar Rental Dubai: Experience Luxury on Wheels</title>
+    <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
+        <title>Location Voiture Dubai : Explorez la Ville en Toute Liberté</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
-
       </Head>
+
 
       <main>
         <Header title="Supercar Rental Dubai: Your Guide to Exotic Car Hire" />
