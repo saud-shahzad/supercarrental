@@ -131,7 +131,8 @@ Pre-Purchased Fuel: You pay upfront for a full tank of fuel, allowing you to ret
  	<p className="description">
 Refundable Fuel: You receive a full tank and are refunded for any unused fuel upon return.</p>
 </p>
-Be sure to clarify the fuel policy and adhere to it to avoid unexpected charges.
+   	<p className="description">
+Be sure to clarify the fuel policy and adhere to it to avoid unexpected charges.</p>
 <p className="description">
 Handling Emergencies</p>
 In case of a breakdown or accident, keep the rental company's contact information handy and follow their instructions promptly. Familiarize yourself with the car's roadside assistance features and emergency procedures outlined in the rental agreement.
